@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836101502977",
+    "project_id": "eshoponline-53a0d",
+    "storage_bucket": "eshoponline-53a0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836101502977:android:5f14915b04a4b9902ca800",
+        "android_client_info": {
+          "package_name": "com.deepak.eshop_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836101502977-2ff4ekld8q18v1mslkafqo8kcsc4u0pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBniyzp1hPwDqtx0QN6Yh7PXc6P6nnF91M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836101502977-2ff4ekld8q18v1mslkafqo8kcsc4u0pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
